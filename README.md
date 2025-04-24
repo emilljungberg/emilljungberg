@@ -7,7 +7,3 @@ From the paper [Ljungberg E,et al. Motion corrected silent ZTE neuroimaging. Mag
 
 ## Data curation for Lund 7T MRI 
 [`7T_BIDS_organiser`](https://github.com/SwedishNational7TMRI/7T_BIDS_organiser) is a framework for organising MRI data from the 7T system in Lund according to the BIDS format.
-
-## mcDESPOT simulation GUI (matlab)
-The [`mcdespot_gui_simulation`](https://github.com/emilljungberg/mcdespot_gui_simulation) repository contains MATLAB code for simulating the signal respons using the mcDESPOT method for T1 and T2 mapping.
-
